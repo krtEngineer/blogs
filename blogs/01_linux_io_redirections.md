@@ -1,3 +1,5 @@
+Date: 15/10/2024
+
 ### Common Linux IO redirections
 
 One of the most fundamental features of Linux is I/O redirection, which allows you to control where the input comes from and where the output goes. In this blog post, we'll explore the basics of I/O redirection with practical examples.
