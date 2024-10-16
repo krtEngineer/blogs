@@ -93,7 +93,9 @@ This is second part of blog series which contains essential linux commands. Here
    ```
 
 5. [mkdir](https://man7.org/linux/man-pages/man1/mkdir.1.html)
+
    Creates a directory.
+
    ```bash
    kushagratiwari$ ls
    file.txt	file1.txt	new_directory
@@ -101,6 +103,7 @@ This is second part of blog series which contains essential linux commands. Here
    kushagratiwari$ ls
    file.txt	file1.txt	new_directory	new_directory_1
    ```
+
 6. [cp](https://man7.org/linux/man-pages/man1/cp.1.html)
 
    Copies files or directories.
